@@ -4,7 +4,7 @@
 
 
 
-<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Estacio. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
+<p align="left">Atualmente sou estudante de Análise e Desenvolvimento de Sistemas na Estacio e sou formado em técnico em administração. Me interesso tanto por front quanto por back-end, e minhas principais linguagens são Java e JavaScript. Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras!
 
 
 <h3 align="left">Connect with me!</h3>
